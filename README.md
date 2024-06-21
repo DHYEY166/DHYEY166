@@ -22,7 +22,7 @@ I'm a data science enthusiast with a strong foundation in machine learning and a
 
 ## 📄 Resume & Contact
 
-- 💼 View my resume: [https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link](https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link)
+- 💼 View my resume: [DHYEY_DESAI_RESUME](https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link)
 - 📧 Email me for collaboration or questions: **dvdesai06@gmail.com**
 
 
