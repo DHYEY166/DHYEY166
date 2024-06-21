@@ -2,7 +2,7 @@
 
 <h3 align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50px"/>
-   Passionate Data Scientist from India 🇮🇳 | Specializing in Deep Learning & Computer Vision
+   Passionate Data Scientist from India | Specializing in Deep Learning & Computer Vision
 </h3>
 
 ## 🚀 About Me
