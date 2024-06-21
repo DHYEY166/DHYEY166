@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a data science enthusiast with a strong foundation in machine learning and a growing expertise in deep learning, particularly for computer vision tasks. I love tackling complex problems, especially in medical imaging analysis, and I'm eager to collaborate on projects that make a real-world impact.
+I'm a data science enthusiast with a strong foundation in machine learning and a growing expertise in deep learning, particularly for Computer Vision and Natural Language Processing tasks. I love tackling complex problems, especially in medical imaging analysis, and I'm eager to collaborate on projects that make a real-world impact.
 
 ## 🔭 My Current Focus
 
@@ -43,8 +43,8 @@ I'm a data science enthusiast with a strong foundation in machine learning and a
 - 👨‍💻 Explore all my projects: [https://github.com/DHYEY166](https://github.com/DHYEY166)
 - 📄 Check out my resume: [https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link](https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link)
 - 💬 For any questions or collaboration ideas, email me at **dvdesai06@gmail.com**
-- 💼 Connect with me on LinkedIn: [https://linkedin.com/in/dhyey desai](https://linkedin.com/in/dhyey desai)
-- 🏆 Follow me on Kaggle: [https://kaggle.com/dhyey166](https://kaggle.com/dhyey166)
+- 💼 Connect with me on LinkedIn: [https://www.linkedin.com/in/dhyey-desai-80659a216/](https://www.linkedin.com/in/dhyey-desai-80659a216/)
+- 🏆 Follow me on Kaggle: [https://www.kaggle.com/dhyey166](https://www.kaggle.com/dhyey166)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/dhyey166"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/dhyey166" /></a></p><br><br>
