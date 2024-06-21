@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm DHYEY DESAI</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Dhyey Desai</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyey166&label=Profile%20views&color=0e75b6&style=flat" alt="dhyey166" /> </p>
+<h3 align="center">
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50px"/>
+   Passionate Data Scientist from India 🇮🇳 | Specializing in Deep Learning & Computer Vision
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyey166" alt="dhyey166" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on [BREAST_CANCER_SEMANTIC_SEGMENTATION](https://github.com/DHYEY166/BREAST_CANCER_SEMANTIC_SEGMENTATION)
+I'm a data science enthusiast with a strong foundation in machine learning and a growing expertise in deep learning, particularly for computer vision tasks. I love tackling complex problems, especially in medical imaging analysis, and I'm eager to collaborate on projects that make a real-world impact.
 
-- 🌱 I’m currently learning **NLP and Computer Vision**
+## 🔭 My Current Focus
 
-- 👯 I’m looking to collaborate on [Hate-Speech-and-Offensive-Language-Detection](https://github.com/DHYEY166/Hate-Speech-and-Offensive-Language-Detection)
-
-- 👨‍💻 All of my projects are available at [https://github.com/DHYEY166](https://github.com/DHYEY166)
-
-- 💬 Ask me about **Python, Machine Learning and Deep Learning**
-
-- 📫 How to reach me **dvdesai06@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link](https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link)
+- **Breast Cancer Semantic Segmentation:**  I'm working on a project to develop deep learning models for precise tumor segmentation in breast cancer images. This has the potential to significantly aid in early diagnosis and treatment planning.
+- **Expanding My Skillset:** I'm actively learning Natural Language Processing (NLP) techniques to complement my computer vision knowledge and open up new possibilities for data analysis and model development.
+- **Collaborating on Hate Speech Detection:**  I'm passionate about using AI for social good. I'm looking to collaborate on projects that leverage NLP to detect and combat hate speech and offensive language online.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
