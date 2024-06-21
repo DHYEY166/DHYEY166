@@ -5,6 +5,10 @@
    Passionate Data Scientist from India 🇮🇳 | Specializing in Deep Learning & Computer Vision
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyey166&label=Profile%20views&color=0e75b6&style=flat" alt="dhyey166" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyey166" alt="dhyey166" /></a> </p>
+
 ## 🚀 About Me
 
 I'm a data science enthusiast with a strong foundation in machine learning and a growing expertise in deep learning, particularly for computer vision tasks. I love tackling complex problems, especially in medical imaging analysis, and I'm eager to collaborate on projects that make a real-world impact.
