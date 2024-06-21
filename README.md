@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a data science enthusiast with a strong foundation in machine learning and a growing expertise in deep learning, particularly for computer vision tasks. I love tackling complex problems, especially in medical imaging analysis, and I'm eager to collaborate on projects that make a real-world impact.
+I'm a data science enthusiast with a strong foundation in machine learning and a growing expertise in deep learning, particularly for Computer Vision and Natural Language Processing tasks. I love tackling complex problems, especially in Medical Imaging Analysis and Sentiment Analysis, and I'm eager to collaborate on projects that make a real-world impact.
 
 ## 🔭 My Current Focus
 
