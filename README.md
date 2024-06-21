@@ -25,10 +25,10 @@ I'm a data science enthusiast with a strong foundation in machine learning and a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/DHYEY166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DHYEY166" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhyey-desai-80659a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyey desai" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/dhyey166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhyey166" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dhyey166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhyey166" height="30" width="40" /></a>
+    <a href="https://github.com/DHYEY166" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DHYEY166" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/dhyey-desai-80659a216/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyey desai" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/dhyey166" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhyey166" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/dhyey166" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhyey166" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Stats
