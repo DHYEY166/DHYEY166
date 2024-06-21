@@ -11,14 +11,10 @@ I'm a data science enthusiast with a strong foundation in machine learning and a
 
 ## 🔭 My Current Focus
 
-- **Breast Cancer Semantic Segmentation:**  I'm working on a project to develop deep learning models for precise tumor segmentation in breast cancer images. This has the potential to significantly aid in early diagnosis and treatment planning.
+- **Breast Cancer Semantic Segmentation:** I'm working on a project to develop deep learning models for precise tumor segmentation in breast cancer images. This has the potential to significantly aid in early diagnosis and treatment planning. ([Link to Breast Cancer Segmentation Project](https://github.com/DHYEY166/BREAST_CANCER_SEMANTIC_SEGMENTATION))
 - **Expanding My Skillset:** I'm actively learning Natural Language Processing (NLP) techniques to complement my computer vision knowledge and open up new possibilities for data analysis and model development.
-- **Collaborating on Hate Speech Detection:**  I'm passionate about using AI for social good. I'm looking to collaborate on projects that leverage NLP to detect and combat hate speech and offensive language online.
+- **Collaborating on Hate Speech Detection:** I'm passionate about using AI for social good. I'm looking to collaborate on projects that leverage NLP to detect and combat hate speech and offensive language online.  ([Link to Hate Speech Detection Project](https://github.com/DHYEY166/Hate-Speech-and-Offensive-Language-Detection)) 
 
-## 🏆 Achievements
-
-* **[Achievement 1]:** Briefly describe any awards, recognition, or publications you have received.
-* **[Achievement 2]:** Highlight any projects you're particularly proud of and their impact.
 
 ## 🛠️ My Tech Stack
 
