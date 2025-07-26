@@ -83,7 +83,7 @@ Developed deep learning models for tumor segmentation in medical imaging to enha
 </p>
 
 - 📧 Email: [dhyeydes@usc.edu](mailto:dhyeydes@usc.edu)
-- 📄 Resume: [View Resume](https://drive.google.com/drive/folders/1HWRSyTlnmr6K0YvGM_2ryYaFB3tAvkN0?usp=share_link)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1bHW3vkIsUx03b36CIrUjKgOdL45aI6_p/view?usp=sharing)
 ---
 
 <div align="center">
