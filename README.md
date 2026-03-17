@@ -39,6 +39,9 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 ### 🔐 MultiLLM | Intelligent Multi-Model AI System | [Deployed Website](https://multillm.app)
 Privacy-first AI platform with real-time streaming chat, routing across **5+ local Ollama models** (Llama 3.2, DeepSeek Coder, Phi3), supporting **10+ file types** with semantic chunking. Includes Google OAuth, Redis session management, rate limiting, and GDPR/HIPAA compliance features.
 
+### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [GitHub](https://github.com/DHYEY166/EcoNova-Guardian) | [Live Demo](https://54-164-140-252.sslip.io)
+Camera-based waste classification app powered by **Amazon Nova on AWS Bedrock**, providing real-time bin recommendations (Waste / Recycling / Compost). Features smart frame gating to minimize Bedrock calls, confidence-based agent decision modes, feedback capture, and a SQLite analytics dashboard. Deployed on EC2 with FastAPI, nginx, and Let’s Encrypt. Built for the **Amazon Nova AI Hackathon**.
+
 ### 🧠 Yelp Hybrid Recommender (Top 3/120) | [View Project](https://github.com/DHYEY166/yelp-hybrid-recommender)
 Spark RDD + XGBoost recommender with **40+ engineered features** for cold-start and behavioral modeling. Achieved RMSE of 0.9734 on test set using confidence-weighted biases and GLM techniques.
 
@@ -63,8 +66,8 @@ Deep learning models for tumor segmentation in medical imaging to support early 
 - **Languages**: Python, SQL, Java, C, Scala
 - **Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV
 - **Web**: FastAPI, Flask, React.js
-- **DBs**: MySQL, PostgreSQL, MongoDB, Firebase, Redis
-- **Cloud & DevOps**: AWS (CCP Certified), Databricks, Spark RDD, Hadoop, Git, Vercel
+- **DBs**: MySQL, PostgreSQL, MongoDB, Firebase, Redis, SQLite
+- **Cloud & DevOps**: AWS (CCP Certified), Bedrock, EC2, Databricks, Spark RDD, Hadoop, Git, Vercel
 
 ### Visual Tools
 <p>
@@ -107,7 +110,7 @@ Deep learning models for tumor segmentation in medical imaging to support early 
 </p>
 
 - 📧 Email: [dhyeydes@usc.edu](mailto:dhyeydes@usc.edu)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1rLQ44JTJRfLZcXnCXx0n54lqWGRI74Xu/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1bHW3vkIsUx03b36CIrUjKgOdL45aI6_p/view?usp=sharing)
 
 ---
 
