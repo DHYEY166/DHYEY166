@@ -36,7 +36,7 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 
 ## 🚀 Featured Projects
 
-### 🔐 MultiLLM | Intelligent Multi-Model AI System | [Deployed Website](https://multillm.app)
+### 🔐 MultiLLM | Intelligent Multi-Model AI System | [Live Demo](https://multillm.app)
 Privacy-first AI platform with real-time streaming chat, routing across **5+ local Ollama models** (Llama 3.2, DeepSeek Coder, Phi3), supporting **10+ file types** with semantic chunking. Includes Google OAuth, Redis session management, rate limiting, and GDPR/HIPAA compliance features.
 
 ### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [Live Demo](https://54-164-140-252.sslip.io)
