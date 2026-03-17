@@ -107,7 +107,7 @@ Deep learning models for tumor segmentation in medical imaging to support early 
 </p>
 
 - 📧 Email: [dhyeydes@usc.edu](mailto:dhyeydes@usc.edu)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1bHW3vkIsUx03b36CIrUjKgOdL45aI6_p/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1rLQ44JTJRfLZcXnCXx0n54lqWGRI74Xu/view?usp=sharing)
 
 ---
 
