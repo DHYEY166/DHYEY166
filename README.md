@@ -39,7 +39,7 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 ### 🔐 MultiLLM | Intelligent Multi-Model AI System | [Deployed Website](https://multillm.app)
 Privacy-first AI platform with real-time streaming chat, routing across **5+ local Ollama models** (Llama 3.2, DeepSeek Coder, Phi3), supporting **10+ file types** with semantic chunking. Includes Google OAuth, Redis session management, rate limiting, and GDPR/HIPAA compliance features.
 
-### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [GitHub](https://github.com/DHYEY166/EcoNova-Guardian) | [Live Demo](https://54-164-140-252.sslip.io)
+### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [Live Demo](https://54-164-140-252.sslip.io)
 Camera-based waste classification app powered by **Amazon Nova on AWS Bedrock**, providing real-time bin recommendations (Waste / Recycling / Compost). Features smart frame gating to minimize Bedrock calls, confidence-based agent decision modes, feedback capture, and a SQLite analytics dashboard. Deployed on EC2 with FastAPI, nginx, and Let’s Encrypt. Built for the **Amazon Nova AI Hackathon**.
 
 ### 🧠 Yelp Hybrid Recommender (Top 3/120) | [View Project](https://github.com/DHYEY166/yelp-hybrid-recommender)
