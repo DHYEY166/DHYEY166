@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a graduate student at the **University of Southern California** (MS Applied Data Science, GPA: 3.73), graduating May 2026. I build **production-ready AI/ML systems** — from RAG pipelines and multimodal recommenders to privacy-first LLM platforms — with deployments at scale on AWS and Spark.
+I'm a graduate from the **University of Southern California** (MS Applied Data Science, GPA: 3.73), graduated May 2026. I build **production-ready AI/ML systems** — from RAG pipelines and multimodal recommenders to privacy-first LLM platforms — with deployments at scale on AWS and Spark.
 
 My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP**, **Computer Vision**, and **scalable ML deployment**. I'm passionate about creating secure, high-impact AI solutions that automate workflows and enhance real-world decision-making.
 
@@ -21,7 +21,7 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 ## 💼 Experience
 
 ### Starcycle | Data Science Co-op *(Feb 2026 – May 2026)*
-- Prototyping a multi-channel Slack RAG assistant with 3 automated flows (summarization, insights, cited Q&A) and 6 API endpoints
+- Prototyped a multi-channel Slack RAG assistant with 3 automated flows (summarization, insights, cited Q&A) and 6 API endpoints
 - Implemented document filing-type classification across 7 categories with automated key-contact identification per channel
 - Deployed on Vercel sandbox environments; evaluated vectorless RAG integration to simplify infrastructure
 
@@ -36,14 +36,23 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 
 ## 🚀 Featured Projects
 
+### 🧹 CleanStack | AI B2B Data Pipeline Automation | [Live Demo](https://clean-stack-eta.vercel.app) | [View Project](https://github.com/DHYEY166/CleanStack)
+AI-powered data cleaning platform with a **"Data PR"** human-in-the-loop workflow. Profiles raw files (CSV, Excel, JSON, PDF, Parquet, DOCX, XML), runs a **3-agent AI committee** (SafetyAuditor, Statistician, DomainValidator) powered by Claude Sonnet 4.6 via AWS Bedrock, and executes approved transform rules on AWS Lambda. Delivers quality-scored clean data with before/after metrics, schema drift alerts, and AI training export (JSONL/Alpaca/Chat). Built on Next.js 16, Aurora PostgreSQL Serverless v2, S3/SQS/SNS, and Clerk auth.
+
+### 🚨 BEACON | Emergency AI for First Responders | [Live Demo](https://web-ten-delta-62.vercel.app) | [View Project](https://github.com/DHYEY166/BEACON)
+Fine-tuned **Gemma 4 E4B** (QLoRA via Unsloth, final loss: 0.018) on WHO/SPHERE/IMCI emergency protocols for frontline triage. Supports **6 languages** (English, Swahili, Hindi, French, Arabic, Hausa) with auto-detection, voice input, photo triage (GPT-4o vision), and spoken audio guidance. Offline-capable React Native app + Next.js web app. Published model on [HuggingFace](https://huggingface.co/dhyey166/beacon-gemma4-e4b).
+
 ### 🔐 MultiLLM | Intelligent Multi-Model AI System | [Live Demo](https://multillm.app)
 Privacy-first AI platform with real-time streaming chat, routing across **5+ local Ollama models** (Llama 3.2, DeepSeek Coder, Phi3), supporting **10+ file types** with semantic chunking. Includes Google OAuth, Redis session management, rate limiting, and GDPR/HIPAA compliance features.
 
-### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [Live Demo](https://54-164-140-252.sslip.io)
-Camera-based waste classification app powered by **Amazon Nova on AWS Bedrock**, providing real-time bin recommendations (Waste / Recycling / Compost). Features smart frame gating to minimize Bedrock calls, confidence-based agent decision modes, feedback capture, and a SQLite analytics dashboard. Deployed on EC2 with FastAPI, nginx, and Let’s Encrypt. Built for the **Amazon Nova AI Hackathon**.
+### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [Live Demo](https://54-164-140-252.sslip.io) | [View Project](https://github.com/DHYEY166/EcoNova-Guardian)
+Camera-based waste classification app powered by **Amazon Nova on AWS Bedrock**, providing real-time bin recommendations (Waste / Recycling / Compost). Features smart frame gating to minimize Bedrock calls, confidence-based agent decision modes, feedback capture, and a SQLite analytics dashboard. Deployed on EC2 with FastAPI, nginx, and Let's Encrypt. Built for the **Amazon Nova AI Hackathon**.
 
 ### 🧠 Yelp Hybrid Recommender (Top 3/120) | [View Project](https://github.com/DHYEY166/yelp-hybrid-recommender)
 Spark RDD + XGBoost recommender with **40+ engineered features** for cold-start and behavioral modeling. Achieved RMSE of 0.9734 on test set using confidence-weighted biases and GLM techniques.
+
+### 🤖 TeamFlow Enterprise | AI Team Workspace | [View Project](https://github.com/DHYEY166/teamflow-enterprise)
+AI-powered team workspace built with React + Gemini. Chat, sprint management, meeting recaps, and departmental announcements — all in one place.
 
 ### 🗃️ ChatDB: NL-to-SQL AI Interface | [View Project](https://github.com/DHYEY166/ChatDB)
 LLM-powered database visualization tool converting natural language to SQL; supports SQLite, MySQL, PostgreSQL with Matplotlib-based bar, line, and scatter plot generation.
@@ -57,17 +66,17 @@ Deep learning models for tumor segmentation in medical imaging to support early 
 ## 🛠️ Skills Snapshot
 
 ### AI/ML & GenAI
-- **RAG & LLMs**: OpenAI Function Calling, Gemini API, Prompt Engineering, Foundation Models
+- **RAG & LLMs**: OpenAI Function Calling, Gemini API, Claude (Bedrock), Prompt Engineering, Foundation Models, QLoRA Fine-tuning
 - **Deep Learning**: Transformers, CNNs, RNN/LSTM, Vision Models, Multimodal Pretraining
 - **NLP**: NER, Sentiment Analysis, Text-to-SQL, Speech Transcription
 - **ML Engineering**: Model Deployment, Quantization, Optimization, Statistical Modeling, Data Mining
 
 ### Tools & Frameworks
-- **Languages**: Python, SQL, Java, C, Scala
-- **Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV
-- **Web**: FastAPI, Flask, React.js
-- **DBs**: MySQL, PostgreSQL, MongoDB, Firebase, Redis, SQLite
-- **Cloud & DevOps**: AWS (CCP Certified), Bedrock, EC2, Databricks, Spark RDD, Hadoop, Git, Vercel
+- **Languages**: Python, TypeScript, SQL, Java, C, Scala, Rust
+- **Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, Unsloth, TRL
+- **Web**: Next.js, FastAPI, Flask, React.js, React Native
+- **DBs**: Aurora PostgreSQL, MySQL, MongoDB, Firebase, Redis, SQLite, Upstash
+- **Cloud & DevOps**: AWS (CCP Certified), Bedrock, EC2, Lambda, S3, SQS, SNS, EventBridge, Databricks, Spark RDD, Hadoop, Vercel, Clerk, Sentry, Git
 
 ### Visual Tools
 <p>
@@ -75,6 +84,8 @@ Deep learning models for tumor segmentation in medical imaging to support early 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40"/>
@@ -106,6 +117,9 @@ Deep learning models for tumor segmentation in medical imaging to support early 
   </a>
   <a href="https://leetcode.com/u/dhyey166">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://huggingface.co/dhyey166">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   </a>
 </p>
 
