@@ -36,9 +36,6 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 
 ## 🚀 Featured Projects
 
-### 🧹 CleanStack | AI B2B Data Pipeline Automation | [Live Demo](https://clean-stack-eta.vercel.app) | [View Project](https://github.com/DHYEY166/CleanStack)
-AI-powered data cleaning platform with a **"Data PR"** human-in-the-loop workflow. Profiles raw files (CSV, Excel, JSON, PDF, Parquet, DOCX, XML), runs a **3-agent AI committee** (SafetyAuditor, Statistician, DomainValidator) powered by Claude Sonnet 4.6 via AWS Bedrock, and executes approved transform rules on AWS Lambda. Delivers quality-scored clean data with before/after metrics, schema drift alerts, and AI training export (JSONL/Alpaca/Chat). Built on Next.js 16, Aurora PostgreSQL Serverless v2, S3/SQS/SNS, and Clerk auth.
-
 ### 🚨 BEACON | Emergency AI for First Responders | [Live Demo](https://web-ten-delta-62.vercel.app) | [View Project](https://github.com/DHYEY166/BEACON)
 Fine-tuned **Gemma 4 E4B** (QLoRA via Unsloth, final loss: 0.018) on WHO/SPHERE/IMCI emergency protocols for frontline triage. Supports **6 languages** (English, Swahili, Hindi, French, Arabic, Hausa) with auto-detection, voice input, photo triage (GPT-4o vision), and spoken audio guidance. Offline-capable React Native app + Next.js web app. Published model on [HuggingFace](https://huggingface.co/dhyey166/beacon-gemma4-e4b).
 
