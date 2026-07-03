@@ -11,14 +11,14 @@ I'm a graduate from the **University of Southern California** (MS Applied Data S
 
 My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP**, **Computer Vision**, and **scalable ML deployment**. I'm passionate about creating secure, high-impact AI solutions that automate workflows and enhance real-world decision-making.
 
-## 🏆 Achievements
+## ✦ Achievements
 
-- 🥇 **Origin Weekend: IMPACT S26 – First Place** — USC startup launch sprint organized with Google & TIE Hub – USC Viterbi
-- 🎓 **Teaching Assistant** — DSCI 551 (Graduate) & DSCI 351 (Undergraduate), Foundations of Data Management
-- 🔬 **Advanced Deep Learning Research @ NUS** — Conducted privacy-preserving facial analysis research; improved model accuracy by 10% and reduced TensorFlow inference latency by 40%
-- ☁️ **AWS Certified Cloud Practitioner**
+- ✦ **Origin Weekend: IMPACT S26 – First Place** — USC startup launch sprint organized with Google & TIE Hub – USC Viterbi
+- ✦ **Teaching Assistant** — DSCI 551 (Graduate) & DSCI 351 (Undergraduate), Foundations of Data Management
+- ✦ **Advanced Deep Learning Research @ NUS** — Conducted privacy-preserving facial analysis research; improved model accuracy by 10% and reduced TensorFlow inference latency by 40%
+- ✦ **AWS Certified Cloud Practitioner**
 
-## 💼 Experience
+## ▸ Experience
 
 ### Starcycle | Data Science Intern *(Feb 2026 – May 2026)*
 - Built an internal Slack-based assistant for Q&A, summaries, and insights using a RAG architecture with the OpenAI/Gemini API, incremental data sync, a Vue frontend, and PII-redaction safeguards — reducing manual information requests and delivering answers within seconds
@@ -35,27 +35,27 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 - Designed and optimized prompt sets with GPT-4 and custom evaluation metrics to test system accuracy, relevance, and robustness in production, resulting in higher query precision and more reliable responses
 - Contributed to scalable deployment workflows, improving inference performance and reliability for enterprise use, which led to increased system efficiency and reduced downtime
 
-## 🚀 Featured Projects
+## ◆ Featured Projects
 
-### 🚨 BEACON | Emergency AI for First Responders | [Live Demo](https://web-ten-delta-62.vercel.app) | [View Project](https://github.com/DHYEY166/BEACON)
+### ⚡ BEACON | Emergency AI for First Responders | [Live Demo](https://web-ten-delta-62.vercel.app) | [View Project](https://github.com/DHYEY166/BEACON)
 Fine-tuned **Gemma 4 E4B** (QLoRA via Unsloth, final loss: 0.018) on WHO/SPHERE/IMCI emergency protocols for frontline triage. Supports **6 languages** (English, Swahili, Hindi, French, Arabic, Hausa) with auto-detection, voice input, photo triage (GPT-4o vision), and spoken audio guidance. Offline-capable React Native app + Next.js web app. Published model on [HuggingFace](https://huggingface.co/dhyey166/beacon-gemma4-e4b).
 
-### 🔐 MultiLLM | Intelligent Multi-Model AI System | [Live Demo](https://multillm.app)
+### ◈ MultiLLM | Intelligent Multi-Model AI System | [Live Demo](https://multillm.app)
 Privacy-first AI platform with real-time streaming chat, routing across **5+ local Ollama models** (Llama 3.2, DeepSeek Coder, Phi3), supporting **10+ file types** with semantic chunking. Includes Google OAuth, Redis session management, rate limiting, and GDPR/HIPAA compliance features.
 
-### 🤖 TeamFlow Enterprise | AI Team Workspace | [View Project](https://github.com/DHYEY166/teamflow-enterprise)
+### ⬡ TeamFlow Enterprise | AI Team Workspace | [View Project](https://github.com/DHYEY166/teamflow-enterprise)
 AI-powered team workspace built with React + Gemini. Chat, sprint management, meeting recaps, and departmental announcements — all in one place.
 
-### ♻️ EcoNova Guardian | Real-Time Waste Classifier | [Live Demo](https://54-164-140-252.sslip.io) | [View Project](https://github.com/DHYEY166/EcoNova-Guardian)
+### ◉ EcoNova Guardian | Real-Time Waste Classifier | [Live Demo](https://54-164-140-252.sslip.io) | [View Project](https://github.com/DHYEY166/EcoNova-Guardian)
 Camera-based waste classification app powered by **Amazon Nova on AWS Bedrock**, providing real-time bin recommendations (Waste / Recycling / Compost). Features smart frame gating to minimize Bedrock calls, confidence-based agent decision modes, feedback capture, and a SQLite analytics dashboard. Deployed on EC2 with FastAPI, nginx, and Let's Encrypt. Built for the **Amazon Nova AI Hackathon**.
 
-### 🧠 Yelp Hybrid Recommender (Top 3/120) | [View Project](https://github.com/DHYEY166/yelp-hybrid-recommender)
+### ⌬ Yelp Hybrid Recommender (Top 3/120) | [View Project](https://github.com/DHYEY166/yelp-hybrid-recommender)
 Spark RDD + XGBoost recommender with **40+ engineered features** for cold-start and behavioral modeling. Achieved RMSE of 0.9734 on test set using confidence-weighted biases and GLM techniques.
 
-### 🗃️ ChatDB: NL-to-SQL AI Interface | [View Project](https://github.com/DHYEY166/ChatDB)
+### ⌗ ChatDB: NL-to-SQL AI Interface | [View Project](https://github.com/DHYEY166/ChatDB)
 LLM-powered database visualization tool converting natural language to SQL; supports SQLite, MySQL, PostgreSQL with Matplotlib-based bar, line, and scatter plot generation.
 
-## 🛠️ Skills Snapshot
+## ⊞ Skills Snapshot
 
 ### AI/ML & GenAI
 - **RAG & LLMs**: OpenAI Function Calling, Gemini API, Claude (Bedrock), Prompt Engineering, Foundation Models, QLoRA Fine-tuning
@@ -83,7 +83,7 @@ LLM-powered database visualization tool converting natural language to SQL; supp
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40"/>
 </p>
 
-## 📊 GitHub Analytics
+## ▣ GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhyey166&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -91,11 +91,11 @@ LLM-powered database visualization tool converting natural language to SQL; supp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyey166&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📎 Publications
+## ✐ Publications
 - **Brain Stroke Detection using ML Models** – *IEEE Xplore, Feb 2023*  
   [Read Paper](https://ieeexplore.ieee.org/document/10092374)
 
-## 📬 Contact & Links
+## ⊡ Contact & Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhyey-desai-80659a216/">
