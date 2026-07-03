@@ -55,12 +55,6 @@ Spark RDD + XGBoost recommender with **40+ engineered features** for cold-start 
 ### 🗃️ ChatDB: NL-to-SQL AI Interface | [View Project](https://github.com/DHYEY166/ChatDB)
 LLM-powered database visualization tool converting natural language to SQL; supports SQLite, MySQL, PostgreSQL with Matplotlib-based bar, line, and scatter plot generation.
 
-### 🛡️ Hate Speech & Offensive Language Detection | [View Project](https://github.com/DHYEY166/Hate-Speech-and-Offensive-Language-Detection)
-Bias-aware NLP pipeline using BERT + TF-IDF achieving **96% F1-score** for ethical, real-time content moderation.
-
-### 🧬 Breast Cancer Semantic Segmentation | [View Project](https://github.com/DHYEY166/BREAST_CANCER_SEMANTIC_SEGMENTATION)
-Deep learning models for tumor segmentation in medical imaging to support early breast cancer diagnosis.
-
 ## 🛠️ Skills Snapshot
 
 ### AI/ML & GenAI
