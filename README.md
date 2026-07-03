@@ -85,10 +85,15 @@ LLM-powered database visualization tool converting natural language to SQL; supp
 
 ## ▣ GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhyey166&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyey166&theme=github_dark" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyey166&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhyey166&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhyey166&theme=github_dark" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhyey166&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhyey166&theme=github_dark" alt="Productive Time" />
 </p>
 
 ## ✐ Publications
