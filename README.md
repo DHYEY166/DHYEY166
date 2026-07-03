@@ -20,19 +20,20 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **Multimodal AI**, **NLP
 
 ## 💼 Experience
 
-### Starcycle | Data Science Co-op *(Feb 2026 – May 2026)*
-- Prototyped a multi-channel Slack RAG assistant with 3 automated flows (summarization, insights, cited Q&A) and 6 API endpoints
-- Implemented document filing-type classification across 7 categories with automated key-contact identification per channel
-- Deployed on Vercel sandbox environments; evaluated vectorless RAG integration to simplify infrastructure
+### Starcycle | Data Science Intern *(Feb 2026 – May 2026)*
+- Built an internal Slack-based assistant for Q&A, summaries, and insights using a RAG architecture with the OpenAI/Gemini API, incremental data sync, a Vue frontend, and PII-redaction safeguards — reducing manual information requests and delivering answers within seconds
+- Led CRM integration planning (API research, webhook architecture, field mapping) and designed a staged sync workflow that validates payloads before production, improving data integrity and cutting sync errors
+- Built national compliance datasets with tiered state coverage, machine-readable exports, late-fee and closure reference indexes, and contributed to a data reconciliation pipeline across internal and third-party systems, enabling faster compliance reporting and reducing manual data-matching effort
 
-### nala | AI/ML Engineer Intern *(May 2025 – Aug 2025)*
-- Built RAG system with OpenAI Function Calling + Firebase handling **500+ voice notes**, delivering pet health analytics across 3 dashboards
-- Developed multimodal AI pipeline processing **200+ audio files** with real-time speech transcription, PDF analysis, and summarization — reducing manual review time by **60%**
-- Created Scala visualization engine supporting **12+ chart types** with Redis caching, cutting render time by **45%**
+### Onawa Pet | AI/ML Engineer Intern *(May 2025 – Aug 2025)*
+- Built RAG system with OpenAI Function Calling + Firebase handling **500+ voice notes**, delivering actionable pet health analytics across 3 cross-team dashboards to inform product decisions
+- Developed a multimodal AI pipeline processing **200+ audio files** with real-time speech transcription, PDF analysis, and summarization using TensorFlow and Transformers, reducing manual document review time by **60%**
+- Created a visualization engine in Scala supporting **12+ chart types** with Redis caching, cutting data representation render time by **45%** and enabling real-time analytics for **100+ daily queries**
 
 ### Genpact | Generative AI Engineer Intern *(Apr 2024 – Jun 2024)*
-- Built an AI-powered PO Automation conversational AI for large purchase order analysis with multi-document querying
-- Designed and optimized prompt sets with GPT-4 and custom evaluation metrics for production accuracy and robustness
+- Built an AI-powered PO Automation conversational AI to analyze large purchase orders and enable multi-document querying, resulting in streamlined processing and improved data accessibility
+- Designed and optimized prompt sets with GPT-4 and custom evaluation metrics to test system accuracy, relevance, and robustness in production, resulting in higher query precision and more reliable responses
+- Contributed to scalable deployment workflows, improving inference performance and reliability for enterprise use, which led to increased system efficiency and reduced downtime
 
 ## 🚀 Featured Projects
 
@@ -71,7 +72,7 @@ Deep learning models for tumor segmentation in medical imaging to support early 
 ### Tools & Frameworks
 - **Languages**: Python, TypeScript, SQL, Java, C, Scala, Rust
 - **Libraries**: PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, Unsloth, TRL
-- **Web**: Next.js, FastAPI, Flask, React.js, React Native
+- **Web**: Next.js, FastAPI, Flask, React.js, React Native, Vue.js
 - **DBs**: Aurora PostgreSQL, MySQL, MongoDB, Firebase, Redis, SQLite, Upstash
 - **Cloud & DevOps**: AWS (CCP Certified), Bedrock, EC2, Lambda, S3, SQS, SNS, EventBridge, Databricks, Spark RDD, Hadoop, Vercel, Clerk, Sentry, Git
 
